@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 08 23:30:06 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017d-00b5-1088-0000008122a8 
+on database directory C:\Users\sanjay\Documents\NetBeansProjects\Fees_Management_System\dist\fees_management_system with class loader sun.misc.Launcher$AppClassLoader@52e922 
+Loaded from file:/C:/Users/sanjay/Documents/NetBeansProjects/Fees_Management_System/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_311-b11
+user.dir=C:\Users\sanjay\Documents\NetBeansProjects\Fees_Management_System\dist
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,43 @@
+colors data {    https://www.color-hex.com/
+
+	
+background: 121212 
+opacity 87%
+	
+surface: 1E2020
+	
+primary: BB86FC
+	secondry: 03DAC5
+	
+textOnBackground: white 
+	
+textOnSurface: E8E8E8
+	
+textOnPrimary: black
+	
+textOnSecondry: black
+	
+error color: FF0101
+	
+use only muted colors
+
+}
+
+
+
+
+1) SignUp form style
+	
+jframe (w-500, h-550)
+	
+panel1 (w-500, h-100)
+	
+panel2 (w-500, h-450)
+
+	
+	
+heading - font: vrinda 30 bold
+	
+normal_txt_label - font: sanserif 20 normal
+
+error_txt_label - font: sanserif 15 italic
